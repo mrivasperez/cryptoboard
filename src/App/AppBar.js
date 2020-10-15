@@ -40,7 +40,7 @@ function toProperCase(lower) {
 export default function () {
   return (
     <Bar>
-      <Logo>CryptoBoard</Logo>
+      <Logo>MØNT</Logo>
       <div />
       <ControlButton active name="dashboard" />
       <ControlButton name="settings" />
